@@ -54,8 +54,8 @@
 
 
 
-### Name:
-### Register Number:
+### Name:Rithik v 
+### Register Number:23014287
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
